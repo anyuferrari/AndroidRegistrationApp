@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Registration</string>
+    <string name="name_tag">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_tag">Email</string>
+    <string name="register_tag">Register</string>
+    <string name="register_button">Register</string>
+    <string name="name_text">Name:</string>
+    <string name="last_name_text">Last name</string>
+    <string name="email_text">Email:</string>
 </resources>
